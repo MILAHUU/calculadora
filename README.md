@@ -23,4 +23,4 @@
 ## Tecnologías utilizadas
 
 - Python
-- Git y GitKraken 
+- GitKraken 
